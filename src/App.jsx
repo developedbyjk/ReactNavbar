@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faBars,faXmark } from "@fortawesome/free-solid-svg-icons";
+// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+// import { faBars,faXmark } from "@fortawesome/free-solid-svg-icons";
 
 import './App.css'
 
@@ -23,7 +23,8 @@ function App() {
         </div>
         {/* menubar out of the navbar remember */}
         <div className="menu-icon" onClick={handleShowNavbar}>
-        <FontAwesomeIcon icon={showNavbar ? faXmark  : faBars} />
+        {/* <FontAwesomeIcon icon={showNavbar ? faXmark  : faBars} /> */}
+        <i class={`fa-solid ${showNavbar ? "fa-xmark"  : "fa-bars"} `}></i>
         </div>
 
         {/* menu bar click change the state that reflect it here */}
