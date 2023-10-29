@@ -24,7 +24,7 @@
 
   <FontAwesomeIcon icon={faCoffee} style={{ color: "green", fontSize: "2em" }} />
 
-3. How does Navbar Work
+3. How Navbar Work
 
   - firs we 3 divs
 
