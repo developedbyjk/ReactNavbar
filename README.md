@@ -19,6 +19,7 @@
    <FontAwesomeIcon icon={faCoffee} />
   <FontAwesomeIcon icon={faAddressCard} />
   <FontAwesomeIcon icon={faUser} />
+  
 
 - step 6 (optional)
 
