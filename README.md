@@ -16,6 +16,7 @@
 - step 3 >
   import { faCoffee, faAddressCard, faUser } from "@fortawesome/free-solid-svg-icons";
 
+ 
 - step 5 >  
    <FontAwesomeIcon icon={faCoffee} />
   <FontAwesomeIcon icon={faAddressCard} />
