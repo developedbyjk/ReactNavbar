@@ -45,6 +45,7 @@
       - active class have this styling
         - .nav-elements.active {width: 270px}
       - <div className={`nav-elements  ${showNavbar && 'active'}`}>
+      
 
   - for hamburger iocn
     - display block on mobile verison
