@@ -1,5 +1,5 @@
 # learnings
-
+ 
 ## 1. height: calc(100vh - 60px);
 
 - made the height whole height minus 60 as we did 60 from top so to make it full
