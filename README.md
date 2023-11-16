@@ -5,6 +5,7 @@
 - made the height whole height minus 60 as we did 60 from top so to make it full
 
 2. Getting Font Awesome Icon in react
+   
 
 - step 1 >
   npm install @fortawesome/react-fontawesome @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons
