@@ -12,6 +12,7 @@
 
 - step 2 >
   import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+  
 
 - step 3 >
   import { faCoffee, faAddressCard, faUser } from "@fortawesome/free-solid-svg-icons";
