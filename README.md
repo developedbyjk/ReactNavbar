@@ -7,6 +7,7 @@
 2. Getting Font Awesome Icon in react
    
 
+
 - step 1 >
   npm install @fortawesome/react-fontawesome @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons
 
